@@ -1,0 +1,1 @@
+﻿new FactoryRun().Runfactory(new SeaTransport());
