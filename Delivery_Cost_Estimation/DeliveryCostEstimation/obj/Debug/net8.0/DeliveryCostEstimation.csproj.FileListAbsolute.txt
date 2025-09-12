@@ -1,0 +1,15 @@
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/bin/Debug/net8.0/DeliveryCostEstimation
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/bin/Debug/net8.0/DeliveryCostEstimation.deps.json
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/bin/Debug/net8.0/DeliveryCostEstimation.runtimeconfig.json
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/bin/Debug/net8.0/DeliveryCostEstimation.dll
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/bin/Debug/net8.0/DeliveryCostEstimation.pdb
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.AssemblyInfoInputs.cache
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.AssemblyInfo.cs
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.csproj.CoreCompileInputs.cache
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.sourcelink.json
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.dll
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/refint/DeliveryCostEstimation.dll
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.pdb
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/DeliveryCostEstimation.genruntimeconfig.cache
+/workspaces/DesignPattern/Delivery_Cost_Estimation/DeliveryCostEstimation/obj/Debug/net8.0/ref/DeliveryCostEstimation.dll
